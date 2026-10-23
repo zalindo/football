@@ -1,72 +1,44 @@
 [
     {
         "group": "CA LA TV",
-        "title": "10:00 | Hoàng Anh Gia Lai vs Sông Lam Nghệ An",
-        "logo": "https://img.cltvap.cc/football/team/df2ae58b9e658494b940b0bd782901b8.png!w80",
-        "url": "https://live05.qioetj.app/live/08552895_tsc.m3u8",
-        "time": "2026-10-23 10:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "08:30 | Adelaide City FC vs APIA Tigers",
-        "logo": "https://img.cltvap.cc/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png!w80",
-        "url": "https://live05.qioetj.app/live/75748097_tsc.m3u8",
-        "time": "2026-10-23 08:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "08:30 | South Melbourne vs Sydney Utd",
-        "logo": "https://img.cltvap.cc/football/team/3728683390847f335552d077cf0b8752.png!w80",
-        "url": "https://live05.qioetj.app/live/33860426_tsc.m3u8",
-        "time": "2026-10-23 08:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "11:00 | Araz Nakhchivan vs Gabala",
-        "logo": "https://img.cltvap.cc/football/team/ddc0609d051d17d0b686abce8ae49a15.png!w80",
-        "url": "https://live05.qioetj.app/live/99121525_tsc.m3u8",
-        "time": "2026-10-23 11:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "09:00 | CLB Brisbane Roar vs CLB Perth Glory",
-        "logo": "https://img.cltvap.cc/football/team/a6bdb997f37f85a411b14348fb35c2ee.png!w80",
-        "url": "https://live05.qioetj.app/live/14830711_tsc.m3u8",
-        "time": "2026-10-23 09:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "10:00 | Khánh Hòa vs Thép Cần Thơ",
-        "logo": "https://img.cltvap.cc/football/team/6d4c74bfc709d561f3bed627af4218f3.png!w80",
+        "title": "14:00 | CLB Pakhtakor vs Neftchi Fargona",
+        "logo": "https://img.cltvap.cc/football/team/78dd333913352de8fc4e8b0834636245.png!w80",
         "url": "https://live05.qioetj.app/live/49572724_tsc.m3u8",
-        "time": "2026-10-23 10:00:00"
+        "time": "2026-10-23 14:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "10:00 | Busan KTF Sonicboom vs Wonju Dongbu Promy",
-        "logo": "https://img.cltvap.cc/basketball/team/624b1a84ff50919f44835640108bdd42.png!w80",
-        "url": "https://live05.qioetj.app/live/90865415_tsc.m3u8",
-        "time": "2026-10-23 10:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "10:00 | Dynamo Kyiv vs Kudrivka",
-        "logo": "https://img.cltvap.cc/football/team/77c049e20cd5b3a779fcf70ac08f21c3.png!w80",
-        "url": "https://live05.qioetj.app/live/75915087_tsc.m3u8",
-        "time": "2026-10-23 10:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "11:00 | Becamex Bình Dương vs Thai Nguyen",
-        "logo": "https://img.cltvap.cc/football/team/8781d3f729c7f3a9baacbee4385f7c84.png!w80",
+        "title": "14:30 | Al Shamal vs Qatar SC",
+        "logo": "https://img.cltvap.cc/football/team/af47207f36a49c89502312138e54f6a7.png!w80",
         "url": "https://live05.qioetj.app/live/16226575_tsc.m3u8",
-        "time": "2026-10-23 11:00:00"
+        "time": "2026-10-23 14:30:00"
     },
     {
         "group": "CA LA TV",
-        "title": "10:30 | Perth Wildcats vs Melbourne Tigers",
-        "logo": "https://img.cltvap.cc/basketball/team/b967348890e26c5ca68f7d26392f5984.png!w80",
-        "url": "https://live05.qioetj.app/live/82054853_tsc.m3u8",
-        "time": "2026-10-23 10:30:00"
+        "title": "14:00 | Braga U23 vs CLB U23 Benfica",
+        "logo": "https://img.cltvap.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80",
+        "url": "https://live05.qioetj.app/live/59444581_tsc.m3u8",
+        "time": "2026-10-23 14:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "13:30 | Al Faisaly Harmah vs Al-Nassr",
+        "logo": "https://img.cltvap.cc/football/team/4e9f55c1006ca24b2b535054a52187e8.png!w80",
+        "url": "https://live05.qioetj.app/live/33982309_tsc.m3u8",
+        "time": "2026-10-23 13:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "15:00 | Botosani vs Petrolul",
+        "logo": "https://img.cltvap.cc/football/team/b7e1d23bb62776473efc5ef196a98de5.png!w80",
+        "url": "https://live05.qioetj.app/live/02456966_tsc.m3u8",
+        "time": "2026-10-23 15:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "15:30 | Al-Ittihad FC vs Al Draih",
+        "logo": "https://img.cltvap.cc/football/team/dea986d20115216c05d1a45ba9a6162e.png!w80",
+        "url": "https://live05.qioetj.app/live/14830711_tsc.m3u8",
+        "time": "2026-10-23 15:30:00"
     }
 ]
