@@ -1,72 +1,44 @@
 [
     {
         "group": "CA LA TV",
-        "title": "13:00 | CLB Cagliari vs Bologna F.C. 1909",
-        "logo": "https://img.cltvap.cc/football/team/dba65c184e03c860ed919ce192b86c5e.png!w80",
-        "url": "https://live05.yefpwmc.app/live/75748097_tsc.m3u8",
-        "time": "2026-10-24 13:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "13:30 | RB Leipzig vs CLB Elversberg",
-        "logo": "https://img.cltvap.cc/football/team/26a59fe5653a96ba72f4f1e4e08b6d4b.png!w80",
-        "url": "https://live05.yefpwmc.app/live/18812304_tsc.m3u8",
-        "time": "2026-10-24 13:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "13:00 | Calcio Como vs U.S. Sassuolo Calcio",
-        "logo": "https://img.cltvap.cc/football/team/5f7059f40965e5a2cc00987e6bac2f32.png!w80",
-        "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
-        "time": "2026-10-24 13:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "13:30 | Paderborn vs Hamburger SV",
-        "logo": "https://img.cltvap.cc/football/team/7c8c3c50966c793eba910e18659759a1.png!w80",
-        "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
-        "time": "2026-10-24 13:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "14:00 | Arsenal vs Everton",
-        "logo": "https://img.cltvap.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80",
-        "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
-        "time": "2026-10-24 14:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "12:00 | Rayo Vallecano vs Elche",
-        "logo": "https://img.cltvap.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80",
-        "url": "https://live05.yefpwmc.app/live/16226575_tsc.m3u8",
-        "time": "2026-10-24 12:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "13:30 | 1. FSV Mainz 05 vs SV Werder Bremen",
-        "logo": "https://img.cltvap.cc/football/team/903089d338485f6c68fbc5da690a0628.png!w80",
+        "title": "16:30 | Borussia Dortmund vs Eintracht Frankfurt",
+        "logo": "https://img.cltvap.cc/football/team/bbfacbdbe67705172c6414d7e9c21b58.png!w80",
         "url": "https://live05.yefpwmc.app/live/75915087_tsc.m3u8",
-        "time": "2026-10-24 13:30:00"
+        "time": "2026-10-24 16:30:00"
     },
     {
         "group": "CA LA TV",
-        "title": "13:30 | 1. FC Köln vs FC Schalke 04",
-        "logo": "https://img.cltvap.cc/football/team/887b7663a0d47031528921d9972ae3a6.png!w80",
-        "url": "https://live05.yefpwmc.app/live/07808742_tsc.m3u8",
-        "time": "2026-10-24 13:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "14:00 | Coventry City vs Fulham",
-        "logo": "https://img.cltvap.cc/football/team/759f19ccaecadd33a5c09b535e543410.png!w80",
+        "title": "16:00 | S.S.C. Napoli vs A.S. Roma",
+        "logo": "https://img.cltvap.cc/football/team/37ed13d27edccd30e053167962c02b3a.png!w80",
         "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8",
-        "time": "2026-10-24 14:00:00"
+        "time": "2026-10-24 16:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "13:30 | FC Augsburg vs 1. FC Union Berlin",
-        "logo": "https://img.cltvap.cc/football/team/db4411a3c4ce1d0f092f5b9d1df08664.png!w80",
-        "url": "https://live05.yefpwmc.app/live/49572724_tsc.m3u8",
-        "time": "2026-10-24 13:30:00"
+        "title": "16:30 | Chelsea vs Tottenham Hotspur",
+        "logo": "https://img.cltvap.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80",
+        "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
+        "time": "2026-10-24 16:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "16:30 | Valencia CF vs Villarreal",
+        "logo": "https://img.cltvap.cc/football/team/3b54543c1a584e2e9948d655142996d3.png!w80",
+        "url": "https://live05.yefpwmc.app/live/75748097_tsc.m3u8",
+        "time": "2026-10-24 16:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "17:00 | Alverca vs Arouca",
+        "logo": "https://img.cltvap.cc/football/team/ff35a6067c000b629b84e648d8a2d2de.png!w80",
+        "url": "https://live05.yefpwmc.app/live/07808742_tsc.m3u8",
+        "time": "2026-10-24 17:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "17:00 | Atlanta Dream vs Golden State Valkyries",
+        "logo": "https://img.cltvap.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80",
+        "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
+        "time": "2026-10-24 17:00:00"
     }
 ]
