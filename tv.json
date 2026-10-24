@@ -1,37 +1,44 @@
 [
     {
         "group": "CA LA TV",
-        "title": "05:00 | Sanfrecce Hiroshima vs Shimizu S-Pulse",
-        "logo": "https://img.cltvap.cc/football/team/c81d5ff7a33a4f6a9312a8703f619352.png!w80",
-        "url": "https://live05.qioetj.app/live/33860426_tsc.m3u8",
-        "time": "2026-10-24 05:00:00"
+        "title": "08:40 | Melbourne Victory vs Clb Melbourne city",
+        "logo": "https://img.cltvap.cc/football/team/04230721124ae33d7fb527413b54106f.png!w80",
+        "url": "https://live05.qioetj.app/live/07428422_tsc.m3u8",
+        "time": "2026-10-24 08:40:00"
     },
     {
         "group": "CA LA TV",
-        "title": "05:00 | CLB Seoul vs Gangwon",
-        "logo": "https://img.cltvap.cc/football/team/ad010af729c420626d1865ad744168d3.png!w80",
-        "url": "https://live05.qioetj.app/live/18812304_tsc.m3u8",
-        "time": "2026-10-24 05:00:00"
+        "title": "08:30 | Adhyaksa FC Banten vs PSIM Yogyakarta",
+        "logo": "https://img.cltvap.cc/football/team/c8fc1bb845b85502f27270af01647337.png!w80",
+        "url": "https://live05.qioetj.app/live/90865415_tsc.m3u8",
+        "time": "2026-10-24 08:30:00"
     },
     {
         "group": "CA LA TV",
-        "title": "05:00 | Seoul Knights vs LG Sakers",
-        "logo": "https://img.cltvap.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80",
+        "title": "08:30 | South East Melbourne vs Adelaide 36ers",
+        "logo": "https://img.cltvap.cc/basketball/team/fb957ad093d309e8c337aeb83ebe7857.png!w80",
         "url": "https://live05.qioetj.app/live/87379114_tsc.m3u8",
-        "time": "2026-10-24 05:00:00"
+        "time": "2026-10-24 08:30:00"
     },
     {
         "group": "CA LA TV",
-        "title": "05:00 | FC Anyang vs CLB Jeonbuk Hyundai Motors",
-        "logo": "https://img.cltvap.cc/football/team/cda2e60a4e984dc6f4ed091ec44fc5bb.png!w80",
-        "url": "https://live05.qioetj.app/live/87547578_tsc.m3u8",
-        "time": "2026-10-24 05:00:00"
+        "title": "07:30 | Henan Songshan Longmen vs Beijing Guoan",
+        "logo": "https://img.cltvap.cc/football/team/f336520db254da6d6d5294b720d26d83.png!w80",
+        "url": "https://live05.qioetj.app/live/14707124_tsc.m3u8",
+        "time": "2026-10-24 07:30:00"
     },
     {
         "group": "CA LA TV",
-        "title": "04:00 | Newcastle Jets vs CLB Macarthur",
-        "logo": "https://img.cltvap.cc/football/team/cb7c21cdf0ae82e8a97065118f89f816.png!w80",
-        "url": "https://live05.qioetj.app/live/14830711_tsc.m3u8",
-        "time": "2026-10-24 04:00:00"
+        "title": "07:30 | Shenzhen Peng City vs Shanghai Shenhua",
+        "logo": "https://img.cltvap.cc/football/team/b982f4d4215ea40ad21d589498140a56.png!w80",
+        "url": "https://live05.qioetj.app/live/07808742_tsc.m3u8",
+        "time": "2026-10-24 07:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "09:45 | Akron Togliatti vs Dynamo Moscow",
+        "logo": "https://img.cltvap.cc/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png!w80",
+        "url": "https://live05.qioetj.app/live/18812304_tsc.m3u8",
+        "time": "2026-10-24 09:45:00"
     }
 ]
