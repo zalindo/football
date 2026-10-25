@@ -1,20 +1,6 @@
 [
     {
         "group": "CA LA TV",
-        "title": "19:45 | Udinese Calcio vs AC Milan",
-        "logo": "https://img.cltvap.cc/football/team/c7140efe06d93642fcc9805077c49aa5.png!w80",
-        "url": "https://live05.yefpwmc.app/live/33860426_tsc.m3u8",
-        "time": "2026-10-25 19:45:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "20:00 | FC Barcelona vs Real Madrid CF",
-        "logo": "https://img.cltvap.cc/football/team/f378eb1ea04e53999b89051aa3244de6.png!w80",
-        "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
-        "time": "2026-10-25 20:00:00"
-    },
-    {
-        "group": "CA LA TV",
         "title": "21:00 | Utah Jazz vs Los Angeles Lakers",
         "logo": "https://img.cltvap.cc/basketball/team/8c88df221129169246c5b8a82955fa34.png!w80",
         "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
@@ -22,23 +8,30 @@
     },
     {
         "group": "CA LA TV",
-        "title": "18:30 | Galatasaray vs Fenerbahce",
-        "logo": "https://img.cltvap.cc/football/team/c25f0689a67120aa381d434bbc896050.png!w80",
-        "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
-        "time": "2026-10-26 18:30:00"
+        "title": "23:00 | Minnesota Timberwolves vs Toronto Raptors",
+        "logo": "https://img.cltvap.cc/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png!w80",
+        "url": "https://live05.yefpwmc.app/live/90865415_tsc.m3u8",
+        "time": "2026-10-25 23:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "15:00 | FC Ararat-Armenia vs Noah",
-        "logo": "https://img.cltvap.cc/football/team/445b142144eafa15449f92563fd1b978.png!w80",
-        "url": "https://live05.yefpwmc.app/live/07428422_tsc.m3u8",
-        "time": "2026-10-26 15:00:00"
+        "title": "23:00 | Oklahoma City Thunder vs Los Angeles Clippers",
+        "logo": "https://img.cltvap.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80",
+        "url": "https://live05.yefpwmc.app/live/89756030_tsc.m3u8",
+        "time": "2026-10-25 23:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "20:30 | Sporting vs CLB Viseu",
-        "logo": "https://img.cltvap.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80",
-        "url": "https://live05.yefpwmc.app/live/49572724_tsc.m3u8",
-        "time": "2026-10-25 20:30:00"
+        "title": "23:00 | New York Knicks vs Orlando Magic",
+        "logo": "https://img.cltvap.cc/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png!w80",
+        "url": "https://live05.yefpwmc.app/live/82054853_tsc.m3u8",
+        "time": "2026-10-25 23:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "23:30 | Philadelphia 76ers vs Detroit Pistons",
+        "logo": "https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",
+        "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
+        "time": "2026-10-25 23:30:00"
     }
 ]
