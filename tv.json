@@ -1,58 +1,37 @@
 [
     {
         "group": "CA LA TV",
-        "title": "18:00 | FC Copenhagen vs Odense BK",
-        "logo": "https://img.cltvap.cc/football/team/629b6f983d0ca3c33f2c4b50b3449314.png!w80",
-        "url": "https://live05.yefpwmc.app/live/07808742_tsc.m3u8",
-        "time": "2026-10-26 18:00:00"
+        "title": "23:00 | Cleveland Cavaliers vs Minnesota Timberwolves",
+        "logo": "https://img.cltvap.cc/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png!w80",
+        "url": "https://live05.yefpwmc.app/live/90865415_tsc.m3u8",
+        "time": "2026-10-26 23:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "18:45 | Santa Clara vs Benfica",
-        "logo": "https://img.cltvap.cc/football/team/0c5162e7f8371cb6972ca6413bf228e8.png!w80",
-        "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8",
-        "time": "2026-10-26 18:45:00"
+        "title": "23:30 | Miami Heat vs Dallas Mavericks",
+        "logo": "https://img.cltvap.cc/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png!w80",
+        "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
+        "time": "2026-10-26 23:30:00"
     },
     {
         "group": "CA LA TV",
-        "title": "19:30 | Paris Saint-Germain vs Olympique Lyonnais",
-        "logo": "https://img.cltvap.cc/football/team/3b720f181ce9993f9422d276acf7b292.png!w80",
-        "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
-        "time": "2026-10-26 19:30:00"
+        "title": "22:00 | Union de Santa Fe vs CLB Estudiantes La Plata",
+        "logo": "https://img.cltvap.cc/football/team/c5d75265caa6875d9ea84f36027312d5.png!w80",
+        "url": "https://live05.yefpwmc.app/live/18812304_tsc.m3u8",
+        "time": "2026-10-26 22:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "18:15 | Al Qadisiya vs CLB Al Sadd",
-        "logo": "https://img.cltvap.cc/football/team/bc74439d19c8bbaa17c57406b120b86d.png!w80",
-        "url": "https://live05.yefpwmc.app/live/33860426_tsc.m3u8",
-        "time": "2026-10-26 18:15:00"
+        "title": "00:00 | Golden State Valkyries vs Atlanta Dream",
+        "logo": "https://img.cltvap.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80",
+        "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
+        "time": "2026-10-27 00:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "18:30 | Galatasaray vs Fenerbahce",
-        "logo": "https://img.cltvap.cc/football/team/c25f0689a67120aa381d434bbc896050.png!w80",
-        "url": "https://live05.yefpwmc.app/live/33982309_tsc.m3u8",
-        "time": "2026-10-26 18:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "12:15 | Ratchaburi vs Kashiwa Reysol",
-        "logo": "https://img.cltvap.cc/football/team/ca2b8d70931647840c78209be51763a3.png!w80",
-        "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8",
-        "time": "2026-10-27 12:15:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "18:15 | CLB Al Quwa Al Jawiya vs CLB Pakhtakor",
-        "logo": "https://img.cltvap.cc/football/team/27e1bfe40810453c59c7cd66fffd2418.png!w80",
-        "url": "https://live05.yefpwmc.app/live/78905744_tsc.m3u8",
-        "time": "2026-10-26 18:15:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "19:45 | Boulogne vs Stade de Reims",
-        "logo": "https://img.cltvap.cc/football/team/2c61be832465c05fe591b927e063c83f.png!w80",
-        "url": "https://live05.yefpwmc.app/live/75915087_tsc.m3u8",
-        "time": "2026-10-26 19:45:00"
+        "title": "23:30 | Đội bóng rổ Boston Celtics vs Chicago Bulls",
+        "logo": "https://img.cltvap.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80",
+        "url": "https://live05.yefpwmc.app/live/89756030_tsc.m3u8",
+        "time": "2026-10-26 23:30:00"
     }
 ]
