@@ -1,9 +1,44 @@
 [
     {
         "group": "CA LA TV",
-        "title": "05:30 | SC Bengaluru vs Rebels FC",
-        "logo": "https://img.cltvap.cc/football/team/f45e63cabf4413baea299663cb836c7e.png!w80",
-        "url": "https://live05.yefpwmc.app/live/99121525_tsc.m3u8",
-        "time": "2026-10-26 05:30:00"
+        "title": "12:00 | Persija Jakarta vs CLB Persik Kediri",
+        "logo": "https://img.cltvap.cc/football/team/10db29eabad13994d9729d8983f8d21a.png!w80",
+        "url": "https://live05.yefpwmc.app/live/75748097_tsc.m3u8",
+        "time": "2026-10-26 12:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "11:30 | Geylang vs Hougang",
+        "logo": "https://img.cltvap.cc/football/team/0c41c6173e22474c62a6563fab45baf3.png!w80",
+        "url": "https://live05.yefpwmc.app/live/16226575_tsc.m3u8",
+        "time": "2026-10-26 11:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "12:00 | Persebaya vs CLB Madura United",
+        "logo": "https://img.cltvap.cc/football/team/66307444901ddb38c881129b7ea0105e.png!w80",
+        "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8",
+        "time": "2026-10-26 12:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "12:00 | Bhayangkara Solo vs PSM Makassar",
+        "logo": "https://img.cltvap.cc/football/team/837cf9a178940067578b7343018e003a.png!w80",
+        "url": "https://live05.yefpwmc.app/live/18812304_tsc.m3u8",
+        "time": "2026-10-26 12:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "13:45 | Neftchi Fargona vs Al-Ittihad FC",
+        "logo": "https://img.cltvap.cc/football/team/f414775655a79c5a471b2103a4164df4.png!w80",
+        "url": "https://live05.yefpwmc.app/live/14830711_tsc.m3u8",
+        "time": "2026-10-26 13:45:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "11:35 | Ningbo Tingwo vs Jiutai Rural Commercial Bank",
+        "logo": "https://img.cltvap.cc/basketball/team/9b17d2feb1397b99fa0530fba4c7385b.png!w80",
+        "url": "https://live05.yefpwmc.app/live/87379114_tsc.m3u8",
+        "time": "2026-10-26 11:35:00"
     }
 ]
