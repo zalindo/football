@@ -1,44 +1,9 @@
 [
     {
         "group": "CA LA TV",
-        "title": "17:00 | Hamburger SV vs Eintracht Frankfurt",
-        "logo": "https://img.cltvap.cc/football/team/81f8f9e258e6b73bc522bab06730720a.png!w80",
-        "url": "https://live05.yefpwmc.app/live/07808742_tsc.m3u8",
-        "time": "2026-10-27 17:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "17:00 | VfL Bochum vs 1. FSV Mainz 05",
-        "logo": "https://img.cltvap.cc/football/team/51e1cbc15a7ae90e176b1c1dfb096928.png!w80",
-        "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8",
-        "time": "2026-10-27 17:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "18:15 | CLB AI Shorta vs Al Hussein",
-        "logo": "https://img.cltvap.cc/football/team/24cb68778b46e3795fa58ad593e98b5d.png!w80",
-        "url": "https://live05.yefpwmc.app/live/59444581_tsc.m3u8",
-        "time": "2026-10-27 18:15:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "18:15 | Al Shamal vs Al Hilal",
-        "logo": "https://img.cltvap.cc/football/team/af47207f36a49c89502312138e54f6a7.png!w80",
-        "url": "https://live05.yefpwmc.app/live/14830711_tsc.m3u8",
-        "time": "2026-10-27 18:15:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "17:30 | U.S. Sassuolo Calcio vs S.S. Lazio",
-        "logo": "https://img.cltvap.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80",
-        "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
-        "time": "2026-10-27 17:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "18:00 | AIK vs Elfsborg",
-        "logo": "https://img.cltvap.cc/football/team/0cc49f3f48c86ed0c00a31c96962ecf3.png!w80",
-        "url": "https://live05.yefpwmc.app/live/75915087_tsc.m3u8",
-        "time": "2026-10-27 18:00:00"
+        "title": "22:00 | Argentinos Jrs vs Independiente Rivadavia",
+        "logo": "https://img.cltvap.cc/football/team/5d8f8c8c289dbb2d67203988c8275cbc.png!w80",
+        "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8",
+        "time": "2026-10-27 22:00:00"
     }
 ]
