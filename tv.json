@@ -1,10 +1,10 @@
 [
     {
         "group": "CA LA TV",
-        "title": "23:00 | Cleveland Cavaliers vs Minnesota Timberwolves",
-        "logo": "https://img.cltvap.cc/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png!w80",
-        "url": "https://live05.yefpwmc.app/live/90865415_tsc.m3u8",
-        "time": "2026-10-26 23:00:00"
+        "title": "00:15 | Instituto vs Dep. Riestra",
+        "logo": "https://img.cltvap.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80",
+        "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8",
+        "time": "2026-10-27 00:15:00"
     },
     {
         "group": "CA LA TV",
@@ -15,13 +15,6 @@
     },
     {
         "group": "CA LA TV",
-        "title": "22:00 | Union de Santa Fe vs CLB Estudiantes La Plata",
-        "logo": "https://img.cltvap.cc/football/team/c5d75265caa6875d9ea84f36027312d5.png!w80",
-        "url": "https://live05.yefpwmc.app/live/18812304_tsc.m3u8",
-        "time": "2026-10-26 22:00:00"
-    },
-    {
-        "group": "CA LA TV",
         "title": "00:00 | Golden State Valkyries vs Atlanta Dream",
         "logo": "https://img.cltvap.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80",
         "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
@@ -29,9 +22,23 @@
     },
     {
         "group": "CA LA TV",
-        "title": "23:30 | Đội bóng rổ Boston Celtics vs Chicago Bulls",
-        "logo": "https://img.cltvap.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80",
-        "url": "https://live05.yefpwmc.app/live/89756030_tsc.m3u8",
-        "time": "2026-10-26 23:30:00"
+        "title": "00:30 | Houston Rockets vs Atlanta Hawks",
+        "logo": "https://img.cltvap.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80",
+        "url": "https://live05.yefpwmc.app/live/82054853_tsc.m3u8",
+        "time": "2026-10-27 00:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "01:05 | CLB Santa Fe vs Bucaramanga",
+        "logo": "https://img.cltvap.cc/football/team/3e5d2a8571f005656c62c1b0bdbaae03.png!w80",
+        "url": "https://live05.yefpwmc.app/live/18812304_tsc.m3u8",
+        "time": "2026-10-27 01:05:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "02:00 | Denver Nuggets vs Golden State Warriors",
+        "logo": "https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80",
+        "url": "https://live05.yefpwmc.app/live/90865415_tsc.m3u8",
+        "time": "2026-10-27 02:00:00"
     }
 ]
