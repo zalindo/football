@@ -1,44 +1,44 @@
 [
     {
         "group": "CA LA TV",
-        "title": "12:15 | Beijing Guoan vs CLB Jeonbuk Hyundai Motors",
-        "logo": "https://img.cltvap.cc/football/team/e7af298237651113dfeafc32ff734a24.png!w80",
-        "url": "https://live05.yefpwmc.app/live/14830711_tsc.m3u8",
-        "time": "2026-10-27 12:15:00"
+        "title": "17:00 | Hamburger SV vs Eintracht Frankfurt",
+        "logo": "https://img.cltvap.cc/football/team/81f8f9e258e6b73bc522bab06730720a.png!w80",
+        "url": "https://live05.yefpwmc.app/live/07808742_tsc.m3u8",
+        "time": "2026-10-27 17:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "12:40 | Abha vs Al Faisaly Harmah",
-        "logo": "https://img.cltvap.cc/football/team/c3b8d20e9dfa2c4e81773a78b673413d.png!w80",
-        "url": "https://live05.yefpwmc.app/live/07428422_tsc.m3u8",
-        "time": "2026-10-27 12:40:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "13:00 | Moreirense U23 vs Gil Vicente U23",
-        "logo": "https://img.cltvap.cc/football/team/d467c3d2a3caf4983596d48e7aa30903.png!w80",
+        "title": "17:00 | VfL Bochum vs 1. FSV Mainz 05",
+        "logo": "https://img.cltvap.cc/football/team/51e1cbc15a7ae90e176b1c1dfb096928.png!w80",
         "url": "https://live05.yefpwmc.app/live/87547578_tsc.m3u8",
-        "time": "2026-10-27 13:00:00"
+        "time": "2026-10-27 17:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "12:15 | Ratchaburi vs Kashiwa Reysol",
-        "logo": "https://img.cltvap.cc/football/team/ca2b8d70931647840c78209be51763a3.png!w80",
-        "url": "https://live05.yefpwmc.app/live/02456966_tsc.m3u8",
-        "time": "2026-10-27 12:15:00"
+        "title": "18:15 | CLB AI Shorta vs Al Hussein",
+        "logo": "https://img.cltvap.cc/football/team/24cb68778b46e3795fa58ad593e98b5d.png!w80",
+        "url": "https://live05.yefpwmc.app/live/59444581_tsc.m3u8",
+        "time": "2026-10-27 18:15:00"
     },
     {
         "group": "CA LA TV",
-        "title": "11:35 | Shandong Hi-Speed vs Beijing Shougang",
-        "logo": "https://img.cltvap.cc/basketball/team/fd94971d5354c254a48249ad402cfb92.png!w80",
-        "url": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
-        "time": "2026-10-27 11:35:00"
+        "title": "18:15 | Al Shamal vs Al Hilal",
+        "logo": "https://img.cltvap.cc/football/team/af47207f36a49c89502312138e54f6a7.png!w80",
+        "url": "https://live05.yefpwmc.app/live/14830711_tsc.m3u8",
+        "time": "2026-10-27 18:15:00"
     },
     {
         "group": "CA LA TV",
-        "title": "14:00 | Panserraikos vs Niki Volos",
-        "logo": "https://img.cltvap.cc/football/team/00f0cc110f52c5adb9c04d5ab8c384fe.png!w80",
-        "url": "https://live05.yefpwmc.app/live/16226575_tsc.m3u8",
-        "time": "2026-10-27 14:00:00"
+        "title": "17:30 | U.S. Sassuolo Calcio vs S.S. Lazio",
+        "logo": "https://img.cltvap.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80",
+        "url": "https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
+        "time": "2026-10-27 17:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "18:00 | AIK vs Elfsborg",
+        "logo": "https://img.cltvap.cc/football/team/0cc49f3f48c86ed0c00a31c96962ecf3.png!w80",
+        "url": "https://live05.yefpwmc.app/live/75915087_tsc.m3u8",
+        "time": "2026-10-27 18:00:00"
     }
 ]
