@@ -1,79 +1,51 @@
 [
     {
         "group": "CA LA TV",
-        "title": "19:30 | Manchester City vs Brighton & Hove Albion FC",
-        "logo": "https://img.cltvap.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80",
-        "url": "https://live05.miekgo.app/live/08552895.m3u8",
-        "time": "2026-10-28 19:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "18:00 | CLB Brommapojkarna vs Hacken",
-        "logo": "https://img.cltvap.cc/football/team/61603b48126b6e023af5811bf43354b2.png!w80",
-        "url": "https://live05.miekgo.app/live/16226575.m3u8",
-        "time": "2026-10-28 18:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "18:15 | Al-Faisaly Amman vs Al-Taawoun",
-        "logo": "https://img.cltvap.cc/football/team/d73fc6a782904bb6819be4e0e86e8a55.png!w80",
-        "url": "https://live05.miekgo.app/live/59444581.m3u8",
-        "time": "2026-10-28 18:15:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "19:45 | Sunderland vs Brentford",
-        "logo": "https://img.cltvap.cc/football/team/957bdc50c307e2a9b526b34b3792da1a.png!w80",
-        "url": "https://live05.miekgo.app/live/07428422.m3u8",
-        "time": "2026-10-28 19:45:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "20:00 | Liverpool vs Chelsea",
-        "logo": "https://img.cltvap.cc/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png!w80",
-        "url": "https://live05.miekgo.app/live/33982309.m3u8",
-        "time": "2026-10-28 20:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "19:45 | FC Bayern München vs CLB Magdeburg",
-        "logo": "https://img.cltvap.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80",
+        "title": "22:30 | CLB Santos vs Palmeiras",
+        "logo": "https://img.cltvap.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80",
         "url": "https://live05.miekgo.app/live/02456966.m3u8",
-        "time": "2026-10-28 19:45:00"
+        "time": "2026-10-28 22:30:00"
     },
     {
         "group": "CA LA TV",
-        "title": "19:45 | Bayer 04 Leverkusen vs Nurnberg",
-        "logo": "https://img.cltvap.cc/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png!w80",
-        "url": "https://live05.miekgo.app/live/07808742.m3u8",
-        "time": "2026-10-28 19:45:00"
+        "title": "22:30 | Fluminense RJ vs CLB Sport Club Internacional",
+        "logo": "https://img.cltvap.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80",
+        "url": "https://live05.miekgo.app/live/33982309.m3u8",
+        "time": "2026-10-28 22:30:00"
     },
     {
         "group": "CA LA TV",
-        "title": "19:45 | CLB Genoa vs Juventus F.C.",
-        "logo": "https://img.cltvap.cc/football/team/51474fb68c7da46b9c20ebddccec7766.png!w80",
+        "title": "23:00 | Atlanta Hawks vs Miami Heat",
+        "logo": "https://img.cltvap.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80",
+        "url": "https://live05.miekgo.app/live/82054853.m3u8",
+        "time": "2026-10-28 23:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "00:00 | Minnesota Timberwolves vs Golden State Warriors",
+        "logo": "https://img.cltvap.cc/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png!w80",
+        "url": "https://live05.miekgo.app/live/90865415.m3u8",
+        "time": "2026-10-29 00:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "23:30 | Inter Miami vs CLB Cincinnati",
+        "logo": "https://img.cltvap.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80",
         "url": "https://live05.miekgo.app/live/87547578.m3u8",
-        "time": "2026-10-28 19:45:00"
+        "time": "2026-10-28 23:30:00"
     },
     {
         "group": "CA LA TV",
-        "title": "10:00 | Gangwon vs Kuching City FC",
-        "logo": "https://img.cltvap.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80",
-        "url": "https://live05.miekgo.app/live/75915087.m3u8",
-        "time": "2026-10-29 10:00:00"
+        "title": "23:30 | Toronto Raptors vs Orlando Magic",
+        "logo": "https://img.cltvap.cc/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w80",
+        "url": "https://live05.miekgo.app/live/89756030.m3u8",
+        "time": "2026-10-28 23:30:00"
     },
     {
         "group": "CA LA TV",
-        "title": "19:45 | Fulham vs Crystal Palace",
-        "logo": "https://img.cltvap.cc/football/team/29982511f1ea861967c3e6478d6a8a68.png!w80",
-        "url": "https://live05.miekgo.app/live/33860426.m3u8",
-        "time": "2026-10-28 19:45:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "19:45 | Bournemouth vs Aston Villa",
-        "logo": "https://img.cltvap.cc/football/team/240b30d333c97d293752ab7afd77ccd6.png!w80",
-        "url": "https://live05.miekgo.app/live/78905744.m3u8",
-        "time": "2026-10-28 19:45:00"
+        "title": "00:00 | Milwaukee Bucks vs Houston Rockets",
+        "logo": "https://img.cltvap.cc/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png!w80",
+        "url": "https://live05.miekgo.app/live/19919577.m3u8",
+        "time": "2026-10-29 00:00:00"
     }
 ]
