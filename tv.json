@@ -1,37 +1,30 @@
 [
     {
         "group": "CA LA TV",
-        "title": "20:00 | Sporting Hortaleza vs Sevilla FC",
-        "logo": "https://img.cltvap.cc/football/team/c862eaf286d184ff7b44b07e09bbe8ec.png!w80",
-        "url": "https://live05.miekgo.app/live/07428422.m3u8",
-        "time": "2026-10-29 20:00:00"
+        "title": "23:30 | CLB America de Cali vs Fortaleza CEIF",
+        "logo": "https://img.cltvap.cc/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png!w80",
+        "url": "https://live05.miekgo.app/live/59444581.m3u8",
+        "time": "2026-10-29 23:30:00"
     },
     {
         "group": "CA LA TV",
-        "title": "19:45 | Everton vs Newcastle United",
-        "logo": "https://img.cltvap.cc/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png!w80",
-        "url": "https://live05.miekgo.app/live/02456966.m3u8",
-        "time": "2026-10-29 19:45:00"
+        "title": "00:00 | New Orleans Pelicans vs Sacramento Kings",
+        "logo": "https://img.cltvap.cc/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png!w80",
+        "url": "https://live05.miekgo.app/live/19919577.m3u8",
+        "time": "2026-10-30 00:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "20:00 | Prat vs Athletic Bilbao",
-        "logo": "https://img.cltvap.cc/football/team/57eb1ed137a3bb206e6475a3a033f03d.png!w80",
-        "url": "https://live05.miekgo.app/live/08552895.m3u8",
-        "time": "2026-10-29 20:00:00"
+        "title": "00:00 | Atlanta Hawks vs Cleveland Cavaliers",
+        "logo": "https://img.cltvap.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80",
+        "url": "https://live05.miekgo.app/live/90865415.m3u8",
+        "time": "2026-10-30 00:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "19:45 | ACF Fiorentina vs Atalanta B.C.",
-        "logo": "https://img.cltvap.cc/football/team/858d87ded0cce014bae0c9681af48524.png!w80",
-        "url": "https://live05.miekgo.app/live/99121525.m3u8",
-        "time": "2026-10-29 19:45:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "18:45 | Braga vs Famalicao",
-        "logo": "https://img.cltvap.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80",
-        "url": "https://live05.miekgo.app/live/75915087.m3u8",
-        "time": "2026-10-29 18:45:00"
+        "title": "00:30 | CLB Gremio vs Athletico-PR",
+        "logo": "https://img.cltvap.cc/football/team/e1f593199d4ee1d98b2db8a9522b605f.png!w80",
+        "url": "https://live05.miekgo.app/live/75748097.m3u8",
+        "time": "2026-10-30 00:30:00"
     }
 ]
