@@ -1,65 +1,16 @@
 [
     {
         "group": "CA LA TV",
-        "title": "17:00 | Cracovia Krakow vs Lublin",
-        "logo": "https://img.cltvap.cc/football/team/181ad56f9efa4afb8872971448266f51.png!w80",
-        "url": "https://live05.miekgo.app/live/07428422.m3u8",
-        "time": "2026-10-30 17:00:00"
+        "title": "22:00 | Huracan vs Club Atletico Tigre",
+        "logo": "https://img.cltvap.cc/football/team/3de7fff92c61b2ac93b08814386cf85d.png!w80",
+        "url": "https://live05.miekgo.app/live/59444581.m3u8",
+        "time": "2026-10-30 22:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "18:00 | Bodo Glimt vs Viking FK",
-        "logo": "https://img.cltvap.cc/football/team/98854ab97eadf3d2c7c6d657ad99df96.png!w80",
-        "url": "https://live05.miekgo.app/live/33860426.m3u8",
-        "time": "2026-10-30 18:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "16:30 | CLB Al Sadd vs Al Shamal",
-        "logo": "https://img.cltvap.cc/football/team/5c794bfbf3227563c85323bb624721ec.png!w80",
-        "url": "https://live05.miekgo.app/live/99121525.m3u8",
-        "time": "2026-10-30 16:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "18:00 | OGC Nice vs Stade Rennais",
-        "logo": "https://img.cltvap.cc/football/team/ff8991853f7aabce7cb66f09cda0c58e.png!w80",
+        "title": "20:15 | Casa Pia AC vs Sporting",
+        "logo": "https://img.cltvap.cc/football/team/0ee6b6e8c21275bb7a79e64c4baf90c1.png!w80",
         "url": "https://live05.miekgo.app/live/49572724.m3u8",
-        "time": "2026-10-30 18:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "18:00 | Le Havre vs Paris Saint-Germain",
-        "logo": "https://img.cltvap.cc/football/team/8fd50a53dad5ea4fd2d32bd3ce727f58.png!w80",
-        "url": "https://live05.miekgo.app/live/87547578.m3u8",
-        "time": "2026-10-30 18:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "17:30 | Energie Cottbus vs VfL Bochum",
-        "logo": "https://img.cltvap.cc/football/team/3623712f3a18880ded3e0a4034b31525.png!w80",
-        "url": "https://live05.miekgo.app/live/16226575.m3u8",
-        "time": "2026-10-30 17:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "16:30 | CLB Al Gharafa vs Qatar SC",
-        "logo": "https://img.cltvap.cc/football/team/fcac1eae493c493061e66608158b40ef.png!w80",
-        "url": "https://live05.miekgo.app/live/18812304.m3u8",
-        "time": "2026-10-30 16:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "17:00 | Konyaspor vs Galatasaray",
-        "logo": "https://img.cltvap.cc/football/team/e75f8b4e1baab3060dbe5ba983a3b49c.png!w80",
-        "url": "https://live05.miekgo.app/live/08552895.m3u8",
-        "time": "2026-10-30 17:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "17:30 | CLB Bielefeld vs Braunschweig",
-        "logo": "https://img.cltvap.cc/football/team/8739d9ef9a67d757cc8ef67d12c58f62.png!w80",
-        "url": "https://live05.miekgo.app/live/07808742.m3u8",
-        "time": "2026-10-30 17:30:00"
+        "time": "2026-10-30 20:15:00"
     }
 ]
