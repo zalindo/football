@@ -1,65 +1,37 @@
 [
     {
         "group": "CA LA TV",
-        "title": "07:30 | CLB Seoul vs Incheon United",
-        "logo": "https://img.cltvap.cc/football/team/ad010af729c420626d1865ad744168d3.png!w80",
-        "url": "https://live05.miekgo.app/live/02456966.m3u8",
-        "time": "2026-11-01 07:30:00"
+        "title": "23:00 | Pachuca vs Tigres",
+        "logo": "https://img.cltvap.cc/football/team/cff411edceeeb7c1677d9db65ce47164.png!w80",
+        "url": "https://live05.miekgo.app/live/59444581.m3u8",
+        "time": "2026-10-31 23:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "19:45 | Troyes AC vs Le Mans",
-        "logo": "https://img.cltvap.cc/football/team/951a522c131e8d2a0a32185858ba6300.png!w80",
-        "url": "https://live05.miekgo.app/live/87547578.m3u8",
-        "time": "2026-10-31 19:45:00"
+        "title": "00:00 | Golden State Valkyries vs Atlanta Dream",
+        "logo": "https://img.cltvap.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80",
+        "url": "https://live05.miekgo.app/live/82054853.m3u8",
+        "time": "2026-11-01 00:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "20:30 | Porto vs CLB Estoril",
-        "logo": "https://img.cltvap.cc/football/team/83aa826e3c45d5047a8c917fb0b41a5e.png!w80",
-        "url": "https://live05.miekgo.app/live/33860426.m3u8",
-        "time": "2026-10-31 20:30:00"
+        "title": "22:00 | Charlotte Hornets vs Philadelphia 76ers",
+        "logo": "https://img.cltvap.cc/basketball/team/e52f6ac53681289c91703501a960cb3c.png!w80",
+        "url": "https://live05.miekgo.app/live/87379114.m3u8",
+        "time": "2026-10-31 22:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "19:45 | AC Milan vs Inter Milan",
-        "logo": "https://img.cltvap.cc/football/team/643ef4101b017dc1495dbd9e9d5cce28.png!w80",
-        "url": "https://live05.miekgo.app/live/07808742.m3u8",
-        "time": "2026-10-31 19:45:00"
+        "title": "23:00 | New Orleans Pelicans vs Atlanta Hawks",
+        "logo": "https://img.cltvap.cc/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png!w80",
+        "url": "https://live05.miekgo.app/live/19919577.m3u8",
+        "time": "2026-10-31 23:00:00"
     },
     {
         "group": "CA LA TV",
-        "title": "19:30 | Luzern vs Sion",
-        "logo": "https://img.cltvap.cc/football/team/54b45ccae7dea1e4b2d74dab279e4620.png!w80",
-        "url": "https://live05.miekgo.app/live/49572724.m3u8",
-        "time": "2026-10-31 19:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "20:00 | AFC Ajax vs AZ Alkmaar",
-        "logo": "https://img.cltvap.cc/football/team/187929503752357480bce47813a9741f.png!w80",
-        "url": "https://live05.miekgo.app/live/18812304.m3u8",
-        "time": "2026-10-31 20:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "20:00 | Aston Villa vs Fulham",
-        "logo": "https://img.cltvap.cc/football/team/a3c32d6a906083118cac2cb796edaab3.png!w80",
-        "url": "https://live05.miekgo.app/live/07428422.m3u8",
-        "time": "2026-10-31 20:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "20:00 | FC Barcelona vs Alaves",
-        "logo": "https://img.cltvap.cc/football/team/f378eb1ea04e53999b89051aa3244de6.png!w80",
-        "url": "https://live05.miekgo.app/live/08552895.m3u8",
-        "time": "2026-10-31 20:00:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "10:30 | CLB Amedspor vs CLB Eyupspor",
-        "logo": "https://img.cltvap.cc/football/team/52a8c01c49d76f1f74ad148b07ef83f9.png!w80",
-        "url": "https://live05.miekgo.app/live/16226575.m3u8",
-        "time": "2026-11-01 10:30:00"
+        "title": "00:00 | San Antonio Spurs vs Minnesota Timberwolves",
+        "logo": "https://img.cltvap.cc/basketball/team/5305d1a7b721b5bef418041eff53ba82.png!w80",
+        "url": "https://live05.miekgo.app/live/89756030.m3u8",
+        "time": "2026-11-01 00:00:00"
     }
 ]
