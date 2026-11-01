@@ -1,30 +1,58 @@
 [
     {
         "group": "CA LA TV",
-        "title": "08:30 | PSIM Yogyakarta vs Pusamania Borneo FC",
-        "logo": "https://img.cltvap.cc/football/team/1a64731cd883e9d734e29a83301ea849.png!w80",
-        "url": "https://live05.miekgo.app/live/90865415.m3u8",
-        "time": "2026-11-01 08:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "08:30 | CLB Persib Bandung vs Adhyaksa FC Banten",
-        "logo": "https://img.cltvap.cc/football/team/b2004093bf25a5a8d1768970d6e49d71.png!w80",
+        "title": "15:15 | CLB Racing Santander vs Real Madrid CF",
+        "logo": "https://img.cltvap.cc/football/team/8db7260a18b1be68e8710cfdbf6be3df.png!w80",
         "url": "https://live05.miekgo.app/live/33982309.m3u8",
-        "time": "2026-11-01 08:30:00"
+        "time": "2026-11-01 15:15:00"
     },
     {
         "group": "CA LA TV",
-        "title": "10:00 | Gazovik Orenburg vs CSKA Moscow",
-        "logo": "https://img.cltvap.cc/football/team/0f5f64c52541a333596d8892b25aa310.png!w80",
-        "url": "https://live05.miekgo.app/live/82054853.m3u8",
-        "time": "2026-11-01 10:00:00"
+        "title": "17:30 | Elche vs Valencia CF",
+        "logo": "https://img.cltvap.cc/football/team/e5ecd0553885f1a3af731758dddce2ec.png!w80",
+        "url": "https://live05.miekgo.app/live/78905744.m3u8",
+        "time": "2026-11-01 17:30:00"
     },
     {
         "group": "CA LA TV",
-        "title": "10:30 | CLB Amedspor vs CLB Eyupspor",
-        "logo": "https://img.cltvap.cc/football/team/52a8c01c49d76f1f74ad148b07ef83f9.png!w80",
-        "url": "https://live05.miekgo.app/live/16226575.m3u8",
-        "time": "2026-11-01 10:30:00"
+        "title": "16:30 | Eintracht Frankfurt vs Hamburger SV",
+        "logo": "https://img.cltvap.cc/football/team/fe636189a2f3db78d0554c34f0bdaae6.png!w80",
+        "url": "https://live05.miekgo.app/live/33860426.m3u8",
+        "time": "2026-11-01 16:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "16:15 | Olympique Lyonnais vs Angers SCO",
+        "logo": "https://img.cltvap.cc/football/team/92fb3cf79ea2ba919b94b04668e13491.png!w80",
+        "url": "https://live05.miekgo.app/live/02456966.m3u8",
+        "time": "2026-11-01 16:15:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "16:15 | Paris FC vs AS Monaco",
+        "logo": "https://img.cltvap.cc/football/team/83a982f8219a768e7cd29d1ac765b199.png!w80",
+        "url": "https://live05.miekgo.app/live/49572724.m3u8",
+        "time": "2026-11-01 16:15:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "02:45 | Portland Timbers vs Houston Dynamo",
+        "logo": "https://img.cltvap.cc/football/team/5dcc5306778fc1089f808833ac7fc477.png!w80",
+        "url": "https://live05.miekgo.app/live/14830711.m3u8",
+        "time": "2026-11-02 02:45:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "16:30 | Liverpool vs Arsenal",
+        "logo": "https://img.cltvap.cc/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png!w80",
+        "url": "https://live05.miekgo.app/live/08552895.m3u8",
+        "time": "2026-11-01 16:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "16:00 | Al Wasl vs CLB Al Quwa Al Jawiya",
+        "logo": "https://img.cltvap.cc/football/team/17b767b98695df2fb512e992dd8a7af4.png!w80",
+        "url": "https://live05.miekgo.app/live/07428422.m3u8",
+        "time": "2026-11-02 16:00:00"
     }
 ]
