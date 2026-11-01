@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "group": "CA LA TV",
+        "title": "08:30 | PSIM Yogyakarta vs Pusamania Borneo FC",
+        "logo": "https://img.cltvap.cc/football/team/1a64731cd883e9d734e29a83301ea849.png!w80",
+        "url": "https://live05.miekgo.app/live/90865415.m3u8",
+        "time": "2026-11-01 08:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "08:30 | CLB Persib Bandung vs Adhyaksa FC Banten",
+        "logo": "https://img.cltvap.cc/football/team/b2004093bf25a5a8d1768970d6e49d71.png!w80",
+        "url": "https://live05.miekgo.app/live/33982309.m3u8",
+        "time": "2026-11-01 08:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "10:00 | Gazovik Orenburg vs CSKA Moscow",
+        "logo": "https://img.cltvap.cc/football/team/0f5f64c52541a333596d8892b25aa310.png!w80",
+        "url": "https://live05.miekgo.app/live/82054853.m3u8",
+        "time": "2026-11-01 10:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "10:30 | CLB Amedspor vs CLB Eyupspor",
+        "logo": "https://img.cltvap.cc/football/team/52a8c01c49d76f1f74ad148b07ef83f9.png!w80",
+        "url": "https://live05.miekgo.app/live/16226575.m3u8",
+        "time": "2026-11-01 10:30:00"
+    }
+]
